@@ -15,7 +15,7 @@ for subfolder in ${root}/Studies/*/; do
 #     echo ${root}/Studies/${study}/scripts/${study}_DX_AD.sh
 #     ${root}/Studies/${study}/scripts/${study}_DX_AD.sh
 
-     read -p ee
+#     read -p ee
 
 done
 
