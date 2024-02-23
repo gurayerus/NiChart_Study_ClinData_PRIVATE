@@ -1,4 +1,6 @@
+input
 output
 Studies/*/output
 Studies/*/intermediate
+Logs
 */.ipynb_checkpoints

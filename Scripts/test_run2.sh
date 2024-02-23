@@ -1,21 +1,18 @@
 #!/bin/bash
 
-##root=/cbica/projects/ISTAGING/NiChart/Pipelines/Data_Consolidation/NiChart_Study_ClinData_PRIVATE 
 root=$(realpath `pwd`/..)
-
-mkdir -pv ${root}/Logs
 
 # run AD
 for subfolder in ${root}/Studies/*/; do
     study=$(basename ${subfolder})
-    qsub -wd ${root} ${root}/Studies/${study}/scripts/${study}_DX_AD.sh 
+##    qsub -wd ${root} ${root}/Studies/${study}/scripts/${study}_DX_AD.sh 
     
 
-#     cd $root
-#     echo ${root}/Studies/${study}/scripts/${study}_DX_AD.sh
-#     ${root}/Studies/${study}/scripts/${study}_DX_AD.sh
+    cd $root
+    echo ${root}/Studies/${study}/scripts/${study}_DX_AD.sh
+    ${root}/Studies/${study}/scripts/${study}_DX_AD.sh
 
-     read -p ee
+    read -p ee
 
 done
 
