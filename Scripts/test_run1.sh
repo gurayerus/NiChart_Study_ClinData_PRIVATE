@@ -1,6 +1,6 @@
 #!/bin/bash
 
-root='/cbica/home/erusg/GitHub/NiChart_Project/NiChart_DataConsolidation/Study_ClinicalData'
+root=$(realpath `pwd`/..)
 
 # run AD
 for subfolder in ${root}/Studies/*/; do
