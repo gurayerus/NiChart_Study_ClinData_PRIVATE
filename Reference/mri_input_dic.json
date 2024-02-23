@@ -1,0 +1,18 @@
+{
+  "UKBB-S1": "./input/data/mri_data/UKBB-S1/UKBB-S1_MasterList_sMRI.csv",
+  "WHICAP": "./input/data/mri_data/WHICAP/WHICAP_MasterList_sMRI.csv",
+  "ADNI-ADSP": "./input/data/mri_data/ADNI-ADSP/ADNI-ADSP_MasterList_sMRI.csv",
+  "OASIS3": "./input/data/mri_data/OASIS3/OASIS3_MasterList_sMRI.csv",
+  "UKBB": "./input/data/mri_data/UKBB/UKBB_MasterList_sMRI.csv",
+  "BLSA": "./input/data/mri_data/BLSA/BLSA_MasterList_sMRI.csv",
+  "GSP": "./input/data/mri_data/GSP/GSP_MasterList_sMRI.csv",
+  "OASIS4": "./input/data/mri_data/OASIS4/OASIS4_MasterList_sMRI.csv",
+  "AIBL": "./input/data/mri_data/AIBL/AIBL_MasterList_sMRI.csv",
+  "SHIP": "./input/data/mri_data/SHIP/SHIP_MasterList_sMRI.csv",
+  "HABS": "./input/data/mri_data/HABS/HABS_MasterList_sMRI.csv",
+  "HCP-YA": "./input/data/mri_data/HCP-YA/HCP-YA_MasterList_sMRI.csv",
+  "ROSMAPMARS": "./input/data/mri_data/ROSMAPMARS/ROSMAPMARS_MasterList_sMRI.csv",
+  "HCP-Aging": "./input/data/mri_data/HCP-Aging/HCP-Aging_MasterList_sMRI.csv",
+  "NACC-ADSP": "./input/data/mri_data/NACC-ADSP/NACC-ADSP_MasterList_sMRI.csv",
+  "WRAP-ADSP": "./input/data/mri_data/WRAP-ADSP/WRAP-ADSP_MasterList_sMRI.csv"
+}

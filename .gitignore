@@ -1,0 +1,4 @@
+output
+Studies/*/output
+Studies/*/intermediate
+*/.ipynb_checkpoints

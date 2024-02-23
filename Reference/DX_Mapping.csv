@@ -1,0 +1,149 @@
+Diagnosis,Class,Freq
+.,,43
+0.5 in memory only,early MCI,16
+AD,AD,2382
+AD dem cannot be primary,dementia,6
+AD dem distrubed social- after,AD,7
+AD dem distrubed social- prior,AD,2
+AD dem distrubed social- with,AD,5
+AD dem Language dysf after,AD,14
+AD dem Language dysf prior,AD,8
+AD dem Language dysf with,AD,14
+AD dem visuospatial- prior,AD,1
+AD dem visuospatial- with,AD,3
+"AD dem visuospatial, after",AD,1
+AD dem w/CVD contribut,AD,12
+AD dem w/CVD not contrib,AD,13
+AD dem w/depresss  contribut,AD,1
+AD dem w/depresss  not contribut,AD,3
+AD dem w/depresss- contribut,AD,23
+AD dem w/depresss- not contribut,AD,45
+"AD dem w/depresss, not contribut",AD,1
+AD dem w/Frontal lobe/demt at onset,AD,1
+AD dem w/oth (list B) contribut,AD,11
+AD dem w/oth (list B) not contrib,AD,5
+AD dem w/oth unusual feat/subs demt,AD,2
+AD dem w/oth unusual features,AD,1
+AD dem w/oth unusual features/demt on,AD,2
+AD dem w/PDI after AD dem contribut,AD,6
+AD dem w/PDI after AD dem not contrib,AD,11
+AD dem/FLD prior to AD dem,AD,2
+AD Dementia,AD,841
+AD patient,AD,35
+AD possible,AD,2
+AD Possible (NINCDS/ADRDA),AD,50
+AD probable,AD,32
+AD Probable (NINCDS/ADRDA),AD,353
+AD Variant,AD,7
+AD/Vascular,AD,38
+AD+Non Neurodegenerative,AD,9
+Alzheimer Disease Dementia,AD,200
+Alzheimer's Disease,AD,160
+CN,CN,22540
+CN assumed by study criteria,CN,97407
+CNS Neoplasm with Cognitive Symptoms,,1
+Cognitively normal,CN,4473
+Cognitively Normal,CN,244
+Cognitively Unimpaired,CN,720
+Cortical Basal Syndrome,,6
+DAT,,9
+DAT w/depresss not contribut,,1
+dementia,AD,28
+Dementia,AD,4154
+DEMENTIA,AD,70
+Dementia NOS,dementia,45
+Dementia Not Otherwise Specified,dementia,3
+Dementia of undetermined etiology,dementia,3
+Dementia with Lewy bodies,Lewy Body Dementia,1
+Dementia with Lewy Bodies,Lewy Body Dementia,12
+Dementia/PD- primary,PD,18
+Depression with Cognitive Symptoms,,6
+DLB,Lewy Body Dementia,9
+DLBD- primary,Lewy Body Dementia,43
+DLBD- secondary,Lewy Body Dementia,1
+"DLBD, primary",Lewy Body Dementia,2
+Early MCI,MCI,191
+Early Onset AD,AD,22
+Frontotemporal Dementia,FTD,1
+Frontotemporal Dementia Behavioral/Executive,FTD,6
+Frontotemporal Dementia NOS,FTD,6
+Frontotemporal Dementia PPA (Semantic Dementia),FTD,3
+Frontotemporal Dementia PPA PNFA,FTD,2
+Frontotemporal demt. prim,FTD,20
+FTD,FTD,21
+Hydrocephalus,Hydrocephalus,21
+Impaired - not MCI,early MCI,14
+Impaired Not MCI,early MCI,40
+IMPAIRED NOT MCI,early MCI,286
+Incipient demt PTP,,23
+Incipient Non-AD dem,dementia,4
+Late MCI,MCI,178
+Logopenic Primary Progressive Aphasia,,6
+MCI,MCI,9248
+MCI - memory,MCI,14
+MCI - memory plus other,MCI,37
+MCI - mixed vascular & AD,MCI,2
+MCI - non-memory multiple,MCI,2
+MCI - non-memory single,MCI,4
+MCI Amnestic Plus Other (Petersen Criteria),MCI,148
+MCI Amnestic Single Domain (Petersen Criteria),MCI,92
+MCI Non-Amnestic Multiple Domains (Petersen Criteria),MCI,27
+MCI Non-Amnestic Single Domain (Petersen Criteria),MCI,32
+MCI NOS,MCI,5
+MCI patient,MCI,209
+MCI X,MCI,10
+Memory Complainer (Healthy control),CN,2165
+Memory Complainer (Healthy control) MMSE < 28,,360
+Mild Cognitive Impairment (two consecutive),MCI,
+Mood/polypharmacy/sleep,,27
+Multiple System Atrophy,,1
+No dementia,,17
+Non AD dem- Other primary,,18
+None or Indeterminate,,4
+Non-Memory Complainer (Healthy control),CN,1640
+Non-Memory Complainer (Healthy control) MMSE <28,,204
+Non-Neurodegenerative Neurologic Disease,,16
+Normal,CN,208
+NORMAL,CN,2503
+Normal Cognition,CN,118
+Other,other,1
+OTHER,other,21
+Other - Miscellaneous,other,14
+Other Non-AD Neurodegenerative Disorder,other,9
+Other See Dx2,other,23
+Parkinsonism NOS,PD,1
+Parkinson's Disease,PD,9
+Parkinson's Disease with Dementia,PD,2
+Posterior Cortical Atrophy,PCA,8
+PPA,early MCI,7
+Primary progressive aphasia,early MCI,2
+ProAph w/o dement,,1
+Probable Dementia,AD,
+Probable dementia or MCI (two consecutive),AD,
+Probable MCI determined by clinical consensus,MCI,
+Progressive Supranuclear Palsy,,3
+Psychiatric Disorder Associated Cognitive Impairments,,6
+Significant Memory Concern,MCI,111
+Subjective Cognitive Complaints,,29
+Traumatic Brain Injury,TBI,4
+Unc: impair reversible,,7
+Unc: ques. Impairment,early MCI,78
+Uncertain - AD possible,dementia,108
+uncertain  possible NON AD dem,dementia,1
+uncertain dementia,dementia,361
+uncertain- possible NON AD dem,dementia,10
+Vascular Cognitive Impairment,Vascular Dementia,8
+Vascular Cognitive Impairment (VCI),Vascular Dementia,14
+Vascular Dementia,Vascular Dementia,4
+Vascular Dementia (NINDS/AIREN),Vascular Dementia,23
+Vascular dementia probable,Vascular Dementia,2
+Vascular Demt  primary,Vascular Dementia,1
+Vascular Demt- primary,Vascular Dementia,17
+Vascular Demt- secondary,Vascular Dementia,3
+Withdrawn,,1
+TBI (FITBIR),TBI,
+Control (FITBIR),CN,
+Veterans (ADNI-DOD),other,
+TBI,TBI,rm
+FITBIR control,CN,rm
+ADNI-DOD,other,rm

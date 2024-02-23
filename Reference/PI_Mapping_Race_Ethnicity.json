@@ -1,0 +1,354 @@
+{
+  "ACCORD": {
+    "ID_Col": "ID",
+    "Race_Col": "Race",
+    "Race_Map": {
+      "White": "White",
+      "NaN": "Unknown",
+      "Black": "Black or African American",
+      "Hispanic": "Hispanic or Latino",
+      "Other": "Unknown"
+    },
+    "Ethnicity_Col": "Ethnicity",
+    "Ethnicity_Map": {
+      "Not Hispanic": "Not Hispanic or Latino",
+      "NaN": NaN,
+      "Hispanic": "Hispanic or Latino"
+    }
+  },
+  "ADNI": {
+    "ID_Col": "PTID",
+    "Race_Col": "Race",
+    "Race_Map": {
+      "White": "White",
+      "Black": "Black or African American",
+      "NaN": "Unknown",
+      "More than one": "Biracial, multiracial, of mixed race",
+      "Asian": "Asian",
+      "Am Indian/Alaskan": "American Indian or Alaska Native",
+      "Unknown": "Unknown",
+      "Hawaiian/Other PI": "Native Hawaiian or Other Pacific Islander"
+    },
+    "Ethnicity_Col": "Ethnicity",
+    "Ethnicity_Map": {
+      "Not Hisp/Latino": "Not Hispanic or Latino",
+      "NaN": NaN,
+      "Hisp/Latino": "Hispanic or Latino",
+      "Unknown": "Unknown"
+    }
+  },
+  "AIBL": {
+    "ID_Col": "ID",
+    "Race_Col": "Race",
+    "Race_Map": {
+      "NaN": "Unknown",
+      "White": "White"
+    },
+    "Ethnicity_Col": "",
+    "Ethnicity_Map": {}
+  },
+  "BIOCARD": {
+    "ID_Col": "ID",
+    "Race_Col": "Race",
+    "Race_Map": {
+      "White": "White",
+      "NaN": "Unknown",
+      "Asian": "Asian",
+      "Black or African American": "Black or African American",
+      "Other": "Unknown"
+    },
+    "Ethnicity_Col": "Ethnicity",
+    "Ethnicity_Map": {
+      "Not Hispanic": "Not Hispanic or Latino",
+      "NaN": NaN,
+      "Hispanic": "Hispanic or Latino"
+    }
+  },
+  "BLSA": {
+    "ID_Col": "ID",
+    "Race_Col": "Race",
+    "Race_Map": {
+      "NaN": "Unknown",
+      "White": "White",
+      "Black": "Black or African American",
+      "American Indian or Alaska Native": "American Indian or Alaska Native",
+      "Other NonWhite": "Unknown",
+      "Other Asian or Other Pacific Islander": "Unknown",
+      "Chinese": "Asian",
+      "Not Classifiable": "Unknown",
+      "Japanese": "Asian",
+      "Filipino": "Asian"
+    },
+    "Ethnicity_Col": "",
+    "Ethnicity_Map": {}
+  },
+  "CARDIA": {
+    "ID_Col": "ID",
+    "Race_Col": "Race",
+    "Race_Map": {
+      "NaN": NaN,
+      "Black": "Black or African American",
+      "White": "White"
+    },
+    "Ethnicity_Col": "",
+    "Ethnicity_Map": {}
+  },
+  "FITBIR": {
+    "ID_Col": "ID",
+    "Race_Col": "",
+    "Race_Map": {},
+    "Ethnicity_Col": "",
+    "Ethnicity_Map": {}
+  },
+  "GSP": {
+    "ID_Col": "ID",
+    "Race_Col": "Race",
+    "Race_Map": {
+      "White": "White",
+      "Other": "Unknown"
+    },
+    "Ethnicity_Col": "Ethnicity",
+    "Ethnicity_Map": {
+      "Not Hispanic/Latino": "Not Hispanic or Latino",
+      "NaN": NaN
+    }
+  },
+  "HABS": {
+    "ID_Col": "ID",
+    "Race_Col": "Race",
+    "Race_Map": {
+      "W": "White",
+      "B": "Black or African American",
+      "NA/W": "Unknown",
+      "AS": "Asian",
+      "NaN": "Unknown",
+      "B/NA": "Unknown"
+    },
+    "Ethnicity_Col": "Ethnicity",
+    "Ethnicity_Map": {
+      "NH": "Not Hispanic or Latino",
+      "H": "Hispanic or Latino",
+      "NaN": NaN
+    }
+  },
+  "HANDLS": {
+    "ID_Col": "ID",
+    "Race_Col": "Race",
+    "Race_Map": {
+      "White": "White",
+      "AfrAm": "Black or African American"
+    },
+    "Ethnicity_Col": "",
+    "Ethnicity_Map": {}
+  },
+  "HCP-Aging": {
+    "ID_Col": "ID",
+    "Race_Col": "",
+    "Race_Map": {},
+    "Ethnicity_Col": "",
+    "Ethnicity_Map": {}
+  },
+  "HCP-YA": {
+    "ID_Col": "ID",
+    "Race_Col": "Race",
+    "Race_Map": {
+      "White": "White",
+      "Black or African Am.": "Black or African American",
+      "More than one": "Biracial, multiracial, of mixed race",
+      "Asian/Nat. Hawaiian/Othr Pacific Is.": "Asian, Native Hawaiian or Other Pacific Islander",
+      "Am. Indian/Alaskan Nat.": "American Indian or Alaska Native",
+      "Unknown or Not Reported": "Unknown"
+    },
+    "Ethnicity_Col": "Ethnicity",
+    "Ethnicity_Map": {
+      "Not Hispanic/Latino": "Not Hispanic or Latino",
+      "Hispanic/Latino": "Hispanic or Latino",
+      "Unknown or Not Reported": "Unknown",
+      "NaN": NaN
+    }
+  },
+  "lookAHEAD": {
+    "ID_Col": "ID",
+    "Race_Col": "Race",
+    "Race_Map": {
+      "White": "White",
+      "NaN": "Unknown",
+      "Other/Mixed": "Biracial, multiracial, of mixed race",
+      "African American / Black": "Black or African American"
+    },
+    "Ethnicity_Col": "Ethnicity",
+    "Ethnicity_Map": {
+      "Not Hispanic": "Not Hispanic or Latino",
+      "NaN": NaN,
+      "Hispanic": "Hispanic or Latino"
+    }
+  },
+  "MESA": {
+    "ID_Col": "ID",
+    "Race_Col": "Race",
+    "Race_Map": {
+      "NaN": "Unknown",
+      "White, Caucasian": "White",
+      "Black, African-American": "Black or African American",
+      "Hispanic": "Hispanic or Latino",
+      "Chinese-American": "Asian"
+    },
+    "Ethnicity_Col": "",
+    "Ethnicity_Map": {}
+  },
+  "OASIS3": {
+    "ID_Col": "ID",
+    "Race_Col": "Race",
+    "Race_Map": {
+      "Caucasian": "White",
+      "NaN": "Unknown",
+      "Asian": "Asian",
+      "African American": "Black or African American"
+    },
+    "Ethnicity_Col": "Ethnicity",
+    "Ethnicity_Map": {
+      "Non-Hispanic": "Not Hispanic or Latino",
+      "NaN": NaN,
+      "Hispanic": "Hispanic or Latino"
+    }
+  },
+  "OASIS4": {
+    "ID_Col": "ID",
+    "Race_Col": "Race",
+    "Race_Map": {
+      "White/Caucasian": "White",
+      "NaN": "Unknown",
+      "American Indian or Alaska Native": "American Indian or Alaska Native",
+      "Black or African American": "Black or African American",
+      "Asian": "Asian",
+      "Native Hawaiian or Other Pacific Islander": "Native Hawaiian or Other Pacific Islander"
+    },
+    "Ethnicity_Col": "Ethnicity",
+    "Ethnicity_Map": {
+      "Unknown": "Unknown",
+      "NaN": NaN,
+      "Not Hispanic/Latino": "Not Hispanic or Latino",
+      "Hispanic/Latino": "Hispanic or Latino"
+    }
+  },
+  "PENN": {
+    "ID_Col": "ID",
+    "Race_Col": "Race",
+    "Race_Map": {
+      "NaN": "Unknown",
+      "Black": "Black or African American",
+      "White": "White",
+      "Asian": "Asian",
+      "Black or African American": "Black or African American",
+      "Other": "Unknown",
+      "Multi-racial": "Biracial, multiracial, of mixed race",
+      "Unknown": "Unknown",
+      "More than One Race": "Biracial, multiracial, of mixed race",
+      "Unknown or Not Reported": "Unknown"
+    },
+    "Ethnicity_Col": "Ethnicity",
+    "Ethnicity_Map": {
+      "NaN": NaN,
+      "Non-Latino": "Not Hispanic or Latino",
+      "Not Hispanic or Latino": "Not Hispanic or Latino",
+      "Latino": "Hispanic or Latino",
+      "Hispanic or Latino": "Hispanic or Latino",
+      "Unknown": "Unknown"
+    }
+  },
+  "PreventAD": {
+    "ID_Col": "ID",
+    "Race_Col": "Race",
+    "Race_Map": {
+      "caucasian": "White",
+      "NaN": "Unknown",
+      "other": "Unknown"
+    },
+    "Ethnicity_Col": "",
+    "Ethnicity_Map": {}
+  },
+  "SHIP": {
+    "ID_Col": "ID",
+    "Race_Col": "Race",
+    "Race_Map": {
+      "White": "White"
+    },
+    "Ethnicity_Col": "",
+    "Ethnicity_Map": {}
+  },
+  "SPRINT": {
+    "ID_Col": "ID",
+    "Race_Col": "Race",
+    "Race_Map": {
+      "White": "White",
+      "Black": "Black or African American",
+      "Indian": "American Indian or Alaska Native",
+      "Asian": "Asian",
+      "Other": "Unknown",
+      "Hawaiian": "Native Hawaiian or Other Pacific Islander"
+    },
+    "Ethnicity_Col": "",
+    "Ethnicity_Map": {}
+  },
+  "UKBB": {
+    "ID_Col": "ID",
+    "Race_Col": "Race",
+    "Race_Map": {
+      "NaN": "Unknown",
+      "British": "White",
+      "Irish": "White",
+      "Caribbean": "Black or African American",
+      "Any other white background": "White",
+      "Other ethnic group": "Unknown",
+      "Pakistani": "Asian",
+      "Any other mixed background": "Biracial, multiracial, of mixed race",
+      "White and Asian": "Biracial, multiracial, of mixed race",
+      "Indian": "Asian",
+      "Prefer not to answer": "Unknown",
+      "Chinese": "Chinese",
+      "African": "Black or African American",
+      "Any other Asian background": "Asian",
+      "White": "White",
+      "Bangladeshi": "Asian",
+      "White and Black African": "Biracial, multiracial, of mixed race",
+      "Any other Black background": "Black or African American",
+      "White and Black Caribbean": "Biracial, multiracial, of mixed race",
+      "Do not know": "Unknown",
+      "Mixed": "Biracial, multiracial, of mixed race",
+      "Asian or Asian British": "Asian"
+    },
+    "Ethnicity_Col": "",
+    "Ethnicity_Map": {}
+  },
+  "WHIMS": {
+    "ID_Col": "ID",
+    "Race_Col": "Race",
+    "Race_Map": {
+      "White (not of Hispanic origin)": "White",
+      "Asian or Pacific Islander": "Asian, Native Hawaiian or Other Pacific Islander",
+      "American Indian or Alaskan Native": "American Indian or Alaska Native",
+      "Black or African-American": "Black or African American",
+      "Hispanic/Latino": "Hispanic or Latino",
+      "Other": "Unknown"
+    },
+    "Ethnicity_Col": "Ethnicity",
+    "Ethnicity_Map": {
+      "Not Hispanic": "Not Hispanic or Latino",
+      "Hispanic": "Hispanic or Latino",
+      "NaN": NaN
+    }
+  },
+  "WRAP": {
+    "ID_Col": "ID",
+    "Race_Col": "Race",
+    "Race_Map": {
+      "White/Caucasian": "White",
+      "Asian": "Asian",
+      "Black/African American": "Black or African American",
+      "Spanish/Hispanic": "Hispanic or Latino",
+      "American Indian/Native American": "American Indian or Alaska Native"
+    },
+    "Ethnicity_Col": "",
+    "Ethnicity_Map": {}
+  }
+}

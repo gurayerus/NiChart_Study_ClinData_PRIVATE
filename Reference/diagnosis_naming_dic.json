@@ -1,0 +1,186 @@
+{
+  "FITBIR": {
+    "Hypertension": "",
+    "Diabetes": "",
+    "Diagnosis": "Diagnosis",
+    "MMSE": "",
+    "DSST": "",
+    "MOCA": ""
+  },
+  "PENN": {
+    "Hypertension": "Hypertension",
+    "Diabetes": "Diabetes",
+    "Diagnosis": "Diagnosis",
+    "MMSE": "MMSE",
+    "DSST": "DSST",
+    "MOCA": "MOCA"
+  },
+  "ADNI": {
+    "Hypertension": "Hypertension",
+    "Diabetes": "Diabetes",
+    "Diagnosis": "Diagnosis",
+    "MMSE": "MMSE",
+    "DSST": "DSST",
+    "MOCA": "MOCA"
+  },
+  "MESA": {
+    "Hypertension": "Hypertension",
+    "Diabetes": "",
+    "Diagnosis": "",
+    "MMSE": "",
+    "DSST": "",
+    "MOCA": ""
+  },
+  "OASIS3": {
+    "Hypertension": "Hypertension",
+    "Diabetes": "Diabetes",
+    "Diagnosis": "Diagnosis",
+    "MMSE": "MMSE",
+    "DSST": "DSST",
+    "MOCA": ""
+  },
+  "SPRINT": {
+    "Hypertension": "Hypertension",
+    "Diabetes": "Diabetes",
+    "Diagnosis": "Diagnosis",
+    "MMSE": "",
+    "DSST": "DSST",
+    "MOCA": "MOCA"
+  },
+  "PreventAD": {
+    "Hypertension": "",
+    "Diabetes": "",
+    "Diagnosis": "Diagnosis",
+    "MMSE": "",
+    "DSST": "",
+    "MOCA": "MOCA"
+  },
+  "UKBB": {
+    "Hypertension": "Hypertension",
+    "Diabetes": "Diabetes",
+    "Diagnosis": "Diagnosis",
+    "MMSE": "",
+    "DSST": "DSST",
+    "MOCA": ""
+  },
+  "HANDLS": {
+    "Hypertension": "Hypertension",
+    "Diabetes": "Diabetes",
+    "Diagnosis": "Diagnosis",
+    "MMSE": "MMSE",
+    "DSST": "",
+    "MOCA": ""
+  },
+  "BLSA": {
+    "Hypertension": "Hypertension",
+    "Diabetes": "Diabetes",
+    "Diagnosis": "Diagnosis",
+    "MMSE": "MMSE",
+    "DSST": "DSST",
+    "MOCA": ""
+  },
+  "ACCORD": {
+    "Hypertension": "Hypertension",
+    "Diabetes": "Diabetes",
+    "Diagnosis": "",
+    "MMSE": "MMSE",
+    "DSST": "DSST",
+    "MOCA": ""
+  },
+  "GSP": {
+    "Hypertension": "",
+    "Diabetes": "",
+    "Diagnosis": "",
+    "MMSE": "",
+    "DSST": "",
+    "MOCA": ""
+  },
+  "OASIS4": {
+    "Hypertension": "",
+    "Diabetes": "",
+    "Diagnosis": "Diagnosis",
+    "MMSE": "MMSE",
+    "DSST": "DSST",
+    "MOCA": ""
+  },
+  "BIOCARD": {
+    "Hypertension": "Hypertension",
+    "Diabetes": "Diabetes",
+    "Diagnosis": "Diagnosis",
+    "MMSE": "MMSE",
+    "DSST": "DSST",
+    "MOCA": ""
+  },
+  "AIBL": {
+    "Hypertension": "Hypertension",
+    "Diabetes": "Diabetes",
+    "Diagnosis": "Diagnosis",
+    "MMSE": "MMSE",
+    "DSST": "DSST",
+    "MOCA": ""
+  },
+  "lookAHEAD": {
+    "Hypertension": "Hypertension",
+    "Diabetes": "",
+    "Diagnosis": "",
+    "MMSE": "",
+    "DSST": "DSST",
+    "MOCA": ""
+  },
+  "SHIP": {
+    "Hypertension": "Hypertension",
+    "Diabetes": "Diabetes",
+    "Diagnosis": "",
+    "MMSE": "",
+    "DSST": "",
+    "MOCA": ""
+  },
+  "HABS": {
+    "Hypertension": "",
+    "Diabetes": "",
+    "Diagnosis": "Diagnosis",
+    "MMSE": "MMSE",
+    "DSST": "DSST",
+    "MOCA": ""
+  },
+  "CARDIA": {
+    "Hypertension": "Hypertension",
+    "Diabetes": "Diabetes",
+    "Diagnosis": "",
+    "MMSE": "",
+    "DSST": "DSST",
+    "MOCA": "MOCA"
+  },
+  "HCP-YA": {
+    "Hypertension": "Hypertension",
+    "Diabetes": "Diabetes",
+    "Diagnosis": "Diagnosis",
+    "MMSE": "MMSE",
+    "DSST": "",
+    "MOCA": ""
+  },
+  "WHIMS": {
+    "Hypertension": "Hypertension",
+    "Diabetes": "Diabetes",
+    "Diagnosis": "Diagnosis",
+    "MMSE": "",
+    "DSST": "",
+    "MOCA": ""
+  },
+  "HCP-Aging": {
+    "Hypertension": "",
+    "Diabetes": "",
+    "Diagnosis": "",
+    "MMSE": "",
+    "DSST": "",
+    "MOCA": "MOCA"
+  },
+  "WRAP": {
+    "Hypertension": "Hypertension",
+    "Diabetes": "Diabetes",
+    "Diagnosis": "Diagnosis",
+    "MMSE": "MMSE",
+    "DSST": "DSST",
+    "MOCA": ""
+  }
+}
